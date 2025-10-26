@@ -76,8 +76,4 @@ int main() {
     {
         printf("vai morrer já");
     }
-
-    // do-while
-    do {
-    } while ()
 }
